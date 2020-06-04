@@ -1,6 +1,6 @@
 # Sign2Word-AI-App
 
-Follow instructions from the Tensorflow Lite examples project, Gesture_recognition
+Follow instructions from the Tensorflow Lite examples project, [Gesture_recognition](https://www.tensorflow.org/lite/examples)  
 
 [Android instructions](https://github.com/tensorflow/examples/blob/master/lite/examples/gesture_classification/android/README.md)  
 [iOS instructions](https://github.com/tensorflow/examples/blob/master/lite/examples/gesture_classification/ios/README.md)  
