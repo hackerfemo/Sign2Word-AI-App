@@ -11,4 +11,4 @@ There is no need to create your own model
 
 Download 123model, 123labels and 123display_labels  
 Rename them to model.tfile, labels.txt and display_labels.txt  
-Delete all items in the model folder and add the three files  
+Delete all items in the model folder and add the three files instead  
